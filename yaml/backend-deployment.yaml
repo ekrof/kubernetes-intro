@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: gcr.io/k8smeetup12122018/backend:cv-backend-2
+        image: gcr.io/k8smeetup12122018/backend:cv-backend-3
         ports:
         - containerPort: 5000

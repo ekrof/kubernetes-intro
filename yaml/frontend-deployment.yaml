@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: gcr.io/k8smeetup12122018/frontend:cv-frontend-2
+        image: gcr.io/k8smeetup12122018/frontend:cv-frontend-3
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
